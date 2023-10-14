@@ -6,4 +6,4 @@ Saya seorang **Mahasiswa Aktif** di Universitas Mataram.<br>
 
 ....<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/muhammad-danish-arfa)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/muhammad-danish-arfa/)ku ya.
