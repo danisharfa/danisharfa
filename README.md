@@ -2,12 +2,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D1D&width=435&lines=Hi%2C+I'm+Darfa+)
 
-### Connect with me:
-<p align="left">
-	<a href="https://linkedin.com/in/muhammad-danish-arfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-danish-arfa" height="30" /></a> &nbsp;
-	<a href="https://www.instagram.com/darfa_only" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darfa_only" height="30" /></a> &nbsp;
-</p>
-
 ### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +28,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## &#x1f4c8; Stats
+### &#x1f4c8; Stats
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danisharfa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
