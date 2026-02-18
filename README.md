@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=danisharfa)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D1D&width=435&lines=Hi%2C+I'm+Darfa+)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D1D&width=435&lines=Hi%2C+I'm+Muhammad+Danish+Arfa)
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,9 +29,4 @@
 
 
 ### &#x1f4c8; Stats
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danisharfa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danisharfa&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danisharfa&theme=cyber-streakglow&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
